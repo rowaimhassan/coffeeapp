@@ -118,7 +118,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                   labelPadding: EdgeInsets.symmetric(horizontal: 20),
                   tabs: [
                 Tab(text: "Hot Coffee",),
-                Tab(text: "Cold Ice",),
+                Tab(text: "Cold Coffee",),
                 Tab(text: "Cappuiccino",),
                 Tab(text: "Americano",),
               ]),
