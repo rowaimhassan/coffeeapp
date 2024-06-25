@@ -18,7 +18,7 @@ SingleItemScreen(this.img);
                   child: InkWell(onTap: (){
                     Navigator.pop(context);
                   }, child: Icon(
-                    Icons.arrow_back_ios_new,
+                    Icons.arrow_back,
                     color: Colors.white.withOpacity(0.5),
                   ),
                   ),
